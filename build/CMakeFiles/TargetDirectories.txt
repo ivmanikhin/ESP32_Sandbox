@@ -547,6 +547,13 @@ D:/ESP32/IDF_projects/i2c_display/build/esp-idf/json/CMakeFiles/list_install_com
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/json/CMakeFiles/install.dir
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/json/CMakeFiles/install/local.dir
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/json/CMakeFiles/install/strip.dir
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/CMakeFiles/__idf_mpu6050.dir
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/CMakeFiles/edit_cache.dir
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/CMakeFiles/rebuild_cache.dir
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/CMakeFiles/list_install_components.dir
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/CMakeFiles/install.dir
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/CMakeFiles/install/local.dir
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/CMakeFiles/install/strip.dir
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mqtt/CMakeFiles/edit_cache.dir
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mqtt/CMakeFiles/rebuild_cache.dir

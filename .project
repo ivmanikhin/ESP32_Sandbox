@@ -659,6 +659,11 @@
 			<location>C:/Espressif/frameworks/esp-idf-v5.0/components/log/log_freertos.c</location>
 		</link>
 		<link>
+			<name>build/ide/esp_idf_components/mpu6050/mpu6050.c</name>
+			<type>1</type>
+			<location>C:/Espressif/frameworks/esp-idf-v5.0/components/mpu6050/mpu6050.c</location>
+		</link>
+		<link>
 			<name>build/ide/esp_idf_components/newlib/abort.c</name>
 			<type>1</type>
 			<location>C:/Espressif/frameworks/esp-idf-v5.0/components/newlib/abort.c</location>

@@ -54,6 +54,7 @@ D:/ESP32/IDF_projects/i2c_display/build/esp-idf/wear_levelling/libwear_levelling
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/sdmmc/libsdmmc.a
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/fatfs/libfatfs.a
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/json/libjson.a
+D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/libmpu6050.a
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mqtt/libmqtt.a
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/perfmon/libperfmon.a
 D:/ESP32/IDF_projects/i2c_display/build/esp-idf/spiffs/libspiffs.a

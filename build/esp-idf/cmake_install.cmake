@@ -359,6 +359,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mpu6050/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("D:/ESP32/IDF_projects/i2c_display/build/esp-idf/mqtt/cmake_install.cmake")
 endif()
 
